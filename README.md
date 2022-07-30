@@ -1,3 +1,4 @@
+![image](https://i.redd.it/qwm4il2p4uxz.gif)
 # World_Weather_Analysis
 UofO Bootcamp Module 6
 
