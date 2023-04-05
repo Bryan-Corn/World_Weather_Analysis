@@ -1,8 +1,5 @@
 ![image](https://i.redd.it/qwm4il2p4uxz.gif)
 # World_Weather_Analysis
-UofO Bootcamp Module 6
-
-This repository was created to satisfy the requirements of the Module 6 Challenge utilizing the google maps API.
 
 
 # Deliverable 1: Retrieve Weather Data 
